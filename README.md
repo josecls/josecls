@@ -9,7 +9,6 @@ I'm José, a 21 year old Software Engineer from Alagoas, Brazil.
 I'm passionate about technology, communities and making the world a better place. I love to learn and contribute in any and every possible way.
 
 More about me:
-- :rocket: I’m currently working at [@Hand-Talk](https://github.com/hand-talk)
 - :school: I'm an Information Systems student at IFAL (Instituto Federal de Educação, Ciência e Tecnologia de Alagoas)
 - 😄 Pronouns: he/his
 - :star: Fun fact: my favorite sitcom is Friends
